@@ -255,6 +255,12 @@ img {
   /*background-color:#1485ee;*/
   /*color:gray;*/
 }
+.btn-blue{
+  background-color: #1485ee;
+  color: gray;
+  border-radius:6px;
+  padding:5px;
+}
 
 .navbar-default .navbar-nav > li > a {
   /*border-radius:0px;*/
@@ -268,14 +274,11 @@ img {
   display:block;
 }
 
-.btn.btn-default.blue {
-  background-color:blue;
-}
 
-.btn.btn-primary.blue {
+/*.btn.btn-primary.blue {
   padding:5px;
   background-color:#2b9cf2;
-}
+}*/
 
 .jumbotron {
   padding-bottom:69px;
@@ -327,7 +330,7 @@ a:focus, a:hover {
 
 a:focus, a:hover {
   color:#23527c;
-  text-decoration:underline;
+  text-decoration:none;
 }
 
 a {
@@ -414,7 +417,7 @@ a {
 }
 
 .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-  color:#2b9cf2;
+  color:white;
   background-color:#2b9cf2;
   border-radius:4px 4px 4px 4px;
   position:relative;
@@ -502,7 +505,7 @@ p {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-  color:#555;
+  color:white;
   background-color:#e7e7e7;
 }
 
