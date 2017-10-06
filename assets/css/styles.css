@@ -300,6 +300,10 @@ img {
   text-align:center;
   box-shadow:#888888;
 }
+.simret-image{
+  width:300px;
+  height:250px;
+}
 
 .images {
   /*margin-right:-23px;*/
